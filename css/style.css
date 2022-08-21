@@ -1,0 +1,71 @@
+.whiteColor{
+    color: #ffffff;
+}
+
+.grayColor{
+    color: #979797;
+}
+
+.whiteColor h1{
+    color: #ffffff;
+}
+
+.color-fondo{
+    background-color: #3BC14A;
+}
+
+.navbar-brand img{
+    max-width: 8vh;
+}
+
+.dropdown .color-fondo{
+    background-color: #4DA167;
+}
+
+.d-flex img{
+    max-width: 4vh;
+}
+
+.btn{
+    margin-right: 20px;
+}
+
+body{
+    background-color: #ffffff;
+}
+
+.backImg{
+    display: flex;
+    justify-content: center;
+}
+
+.carousel-padre{
+    width: 75vw;
+    margin: 0 auto;
+}
+
+.nuestros-servicios{
+    color: #58449b;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.container img{
+    max-height: 190px;
+}
+
+.container .card{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.nav-item a{
+    color: white;
+}
+
+.card h5{
+    color: #58449b;
+}
