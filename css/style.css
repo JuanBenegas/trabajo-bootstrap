@@ -92,6 +92,50 @@ body{
     margin-bottom: 50px;
 }
 
-.formasDePago h5{
+.formasDePago h2{
+    margin: 40px;
+    color: #58449b;
+}
+
+.formasDePago img{
     margin: 20px;
+}
+
+.contactenos{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contactenos h2{
+    color: #58449b;
+    margin: 20px;
+}
+
+.containerContacto{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.phone{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+
+.phone .material-symbols-outlined{
+    margin: 10px;
+}
+
+.whatsflex{
+    display: flex;
+    justify-content: center;
+}
+
+.whatsflex .btn {
+    margin-right: 0px;
 }
