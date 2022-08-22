@@ -69,3 +69,29 @@ body{
 .card h5{
     color: #58449b;
 }
+
+.containerTamanio{
+    max-width: 50vw;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.sombreadoCardTitle{
+    text-shadow: 4px 4px 4px black;
+    color: white;
+}
+
+
+
+.formasDePago{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.formasDePago h5{
+    margin: 20px;
+}
