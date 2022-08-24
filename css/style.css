@@ -139,3 +139,7 @@ body{
 .whatsflex .btn {
     margin-right: 0px;
 }
+
+.imgMP{
+    max-width: 50vw;
+}
